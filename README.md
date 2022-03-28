@@ -1,0 +1,2 @@
+# Excel-Automation-GUI
+This excel automation GUI can help us do various tasks which we struggle to do with just Excel. We can handle and transform the data in any way we want by using the power of python modules and syntax. It gives us the freedom to use the plain python syntax to manipulate the data. This also also provides the ability to save(as a new file or previous file), append(both rows and columns), modify the files(Adding or deleting rows or columns) in multiple ways. In short you can do any type of complex transformation to your excel data without much a do.
